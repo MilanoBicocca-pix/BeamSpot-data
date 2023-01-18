@@ -1,0 +1,23 @@
+Runnumber 360075
+BeginTimeOfFit 2022.10.09 21:57:16 GMT 1665352636
+EndTimeOfFit 2022.10.09 21:57:17 GMT 1665352637
+LumiRange 214 - 214
+Type 2
+X0 0.173582
+Y0 -0.185349
+Z0 -0.048809
+sigmaZ0 3.55048
+dxdz 9.78774e-05
+dydz 0.000176477
+BeamWidthX 0.000783392
+BeamWidthY 0.000942998
+Cov(0,j) 1.29963e-10 8.60015e-14 0 0 0 0 0 
+Cov(1,j) 8.60015e-14 1.25796e-10 0 0 0 0 0 
+Cov(2,j) 0 0 0.0102073 0 0 0 0 
+Cov(3,j) 0 0 0 0.0051021 0 0 0 
+Cov(4,j) 0 0 0 0 9.97888e-12 -8.79858e-14 0 
+Cov(5,j) 0 0 0 0 -8.79858e-14 9.81805e-12 0 
+Cov(6,j) 0 0 0 0 0 0 7.47299e-10
+EmittanceX 0
+EmittanceY 0
+BetaStar 0
