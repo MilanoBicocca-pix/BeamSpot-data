@@ -1,0 +1,23 @@
+Runnumber 346512
+BeginTimeOfFit 2021.11.01 04:45:25 GMT 1635741925
+EndTimeOfFit 2021.11.01 04:45:30 GMT 1635741930
+LumiRange 577 - 577
+Type 2
+X0 0.167859
+Y0 -0.181244
+Z0 1.53582
+sigmaZ0 7.50903
+dxdz 8.76689e-05
+dydz 7.33941e-05
+BeamWidthX 0.0152878
+BeamWidthY 0.018617
+Cov(0,j) 1.10634e-05 0.0 0 0 0 0 0
+Cov(1,j) 0.0 9.66873e-06 0 0 0 0 0
+Cov(2,j) 0 0 1.81767 0 0 0 0
+Cov(3,j) 0 0 0 0.907893 0 0 0
+Cov(4,j) 0 0 0 0 2.55216e-07 0.0 0
+Cov(5,j) 0 0 0 0 0.0 1.65875e-07 0
+Cov(6,j) 0 0 0 0 0 0 4.30579e-06
+EmittanceX 0.0
+EmittanceY 0.0
+BetaStar 0.0
