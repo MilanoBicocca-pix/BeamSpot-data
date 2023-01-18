@@ -1,0 +1,26 @@
+Runnumber 353018
+BeginTimeOfFit 2022.06.04 06:49:02 GMT 1654325342
+EndTimeOfFit 2022.06.04 06:49:26 GMT 1654325366
+LumiRange 65 - 65
+Type -1
+X0 0.174796
+Y0 -0.167049
+Z0 1.47995
+sigmaZ0 7.28526
+dxdz 0.000407986
+dydz -0.000799011
+BeamWidthX 0
+BeamWidthY 0
+dxdy 0
+Cov(0,j) 2.77487e-07 -5.92826e-09 0 0 0 0 0 0 0 
+Cov(1,j) -5.92826e-09 2.66483e-07 0 0 0 0 0 0 0 
+Cov(2,j) 0 0 0.146583 0 0 0 0 0 0 
+Cov(3,j) 0 0 0 0.175987 0 0 0 0 0 
+Cov(4,j) 0 0 0 0 6.98549e-09 -2.49437e-10 0 0 0 
+Cov(5,j) 0 0 0 0 -2.49437e-10 6.47088e-09 0 0 0 
+Cov(6,j) 0 0 0 0 0 0 0 0 0 
+Cov(7,j) 0 0 0 0 0 0 0 0 0 
+Cov(8,j) 0 0 0 0 0 0 0 0 0 
+EmittanceX 0
+EmittanceY 0
+BetaStar 0
