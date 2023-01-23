@@ -1,0 +1,23 @@
+Runnumber 352509
+BeginTimeOfFit 2022.05.28 11:34:30 GMT 1653737670
+EndTimeOfFit 2022.05.28 11:34:53 GMT 1653737693
+LumiRange 149 - 149
+Type 2
+X0 0.171878
+Y0 -0.181908
+Z0 0.284866
+sigmaZ0 7.65292
+dxdz 0.000128807
+dydz 0.000281381
+BeamWidthX 0.0163047
+BeamWidthY 0.0152818
+Cov(0,j) 1.24073e-07 0.0 0 0 0 0 0
+Cov(1,j) 0.0 1.24202e-07 0 0 0 0 0
+Cov(2,j) 0 0 0.513651 0 0 0 0
+Cov(3,j) 0 0 0 0.25675 0 0 0
+Cov(4,j) 0 0 0 0 2.12879e-09 0.0 0
+Cov(5,j) 0 0 0 0 0.0 2.1464599999999996e-09 0
+Cov(6,j) 0 0 0 0 0 0 1.23717e-06
+EmittanceX 0.0
+EmittanceY 0.0
+BetaStar 0.0

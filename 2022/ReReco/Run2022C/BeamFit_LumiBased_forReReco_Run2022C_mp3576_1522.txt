@@ -1,0 +1,230 @@
+Runnumber 357271
+BeginTimeOfFit 2022.08.10 20:11:04 GMT 1660162264
+EndTimeOfFit 2022.08.10 20:11:19 GMT 1660162279
+LumiRange 1 - 1
+Type 2
+X0 0.172981
+Y0 -0.18197
+Z0 0.250034
+sigmaZ0 3.36949
+dxdz 0.000102827
+dydz 0.00019543
+BeamWidthX 0.000801968
+BeamWidthY 0.000884783
+Cov(0,j) 1.0183e-10 -1.31516e-12 0 0 0 0 0 
+Cov(1,j) -1.31516e-12 9.75914e-11 0 0 0 0 0 
+Cov(2,j) 0 0 0.00726857 0 0 0 0 
+Cov(3,j) 0 0 0 0.00363715 0 0 0 
+Cov(4,j) 0 0 0 0 8.88031e-12 -1.26557e-13 0 
+Cov(5,j) 0 0 0 0 -1.26557e-13 8.48744e-12 0 
+Cov(6,j) 0 0 0 0 0 0 6.15049e-10
+EmittanceX 0
+EmittanceY 0
+BetaStar 0
+Runnumber 357271
+BeginTimeOfFit 2022.08.10 20:11:19 GMT 1660162279
+EndTimeOfFit 2022.08.10 20:11:42 GMT 1660162302
+LumiRange 2 - 2
+Type 2
+X0 0.173005
+Y0 -0.181939
+Z0 0.119558
+sigmaZ0 3.30642
+dxdz 0.000105825
+dydz 0.000195892
+BeamWidthX 0.000724102
+BeamWidthY 0.000901889
+Cov(0,j) 9.79075e-11 -1.24274e-12 0 0 0 0 0 
+Cov(1,j) -1.24274e-12 9.48132e-11 0 0 0 0 0 
+Cov(2,j) 0 0 0.00680136 0 0 0 0 
+Cov(3,j) 0 0 0 0.00343315 0 0 0 
+Cov(4,j) 0 0 0 0 8.88302e-12 -1.50385e-14 0 
+Cov(5,j) 0 0 0 0 -1.50385e-14 8.62919e-12 0 
+Cov(6,j) 0 0 0 0 0 0 5.58303e-10
+EmittanceX 0
+EmittanceY 0
+BetaStar 0
+Runnumber 357271
+BeginTimeOfFit 2022.08.10 20:11:50 GMT 1660162310
+EndTimeOfFit 2022.08.10 20:12:05 GMT 1660162325
+LumiRange 3 - 3
+Type 2
+X0 0.17299
+Y0 -0.181958
+Z0 0.159196
+sigmaZ0 3.29577
+dxdz 9.61815e-05
+dydz 0.000190218
+BeamWidthX 0.000768038
+BeamWidthY 0.000923067
+Cov(0,j) 1.0174e-10 -2.22605e-13 0 0 0 0 0 
+Cov(1,j) -2.22605e-13 9.81382e-11 0 0 0 0 0 
+Cov(2,j) 0 0 0.00697632 0 0 0 0 
+Cov(3,j) 0 0 0 0.0034876 0 0 0 
+Cov(4,j) 0 0 0 0 9.33348e-12 -3.61462e-15 0 
+Cov(5,j) 0 0 0 0 -3.61462e-15 8.71734e-12 0 
+Cov(6,j) 0 0 0 0 0 0 6.02575e-10
+EmittanceX 0
+EmittanceY 0
+BetaStar 0
+Runnumber 357271
+BeginTimeOfFit 2022.08.10 20:12:27 GMT 1660162347
+EndTimeOfFit 2022.08.10 20:12:29 GMT 1660162349
+LumiRange 4 - 4
+Type 2
+X0 0.173014
+Y0 -0.181965
+Z0 0.0872069
+sigmaZ0 3.40454
+dxdz 0.000100176
+dydz 0.000201657
+BeamWidthX 0.00076121
+BeamWidthY 0.000982294
+Cov(0,j) 1.02626e-10 -7.01204e-13 0 0 0 0 0 
+Cov(1,j) -7.01204e-13 9.78777e-11 0 0 0 0 0 
+Cov(2,j) 0 0 0.0074111 0 0 0 0 
+Cov(3,j) 0 0 0 0.00370749 0 0 0 
+Cov(4,j) 0 0 0 0 8.9339e-12 -1.14921e-13 0 
+Cov(5,j) 0 0 0 0 -1.14921e-13 8.49991e-12 0 
+Cov(6,j) 0 0 0 0 0 0 6.13148e-10
+EmittanceX 0
+EmittanceY 0
+BetaStar 0
+Runnumber 357271
+BeginTimeOfFit 2022.08.10 20:12:38 GMT 1660162358
+EndTimeOfFit 2022.08.10 20:12:52 GMT 1660162372
+LumiRange 5 - 5
+Type 2
+X0 0.172994
+Y0 -0.181946
+Z0 0.0403237
+sigmaZ0 3.3605
+dxdz 0.000107655
+dydz 0.000185607
+BeamWidthX 0.00081692
+BeamWidthY 0.000874779
+Cov(0,j) 9.85217e-11 -1.40313e-13 0 0 0 0 0 
+Cov(1,j) -1.40313e-13 9.48092e-11 0 0 0 0 0 
+Cov(2,j) 0 0 0.00694955 0 0 0 0 
+Cov(3,j) 0 0 0 0.0034735 0 0 0 
+Cov(4,j) 0 0 0 0 8.78977e-12 -1.07944e-13 0 
+Cov(5,j) 0 0 0 0 -1.07944e-13 8.33887e-12 0 
+Cov(6,j) 0 0 0 0 0 0 5.90792e-10
+EmittanceX 0
+EmittanceY 0
+BetaStar 0
+Runnumber 357271
+BeginTimeOfFit 2022.08.10 20:12:52 GMT 1660162372
+EndTimeOfFit 2022.08.10 20:13:15 GMT 1660162395
+LumiRange 6 - 6
+Type 2
+X0 0.173011
+Y0 -0.181959
+Z0 0.105706
+sigmaZ0 3.27224
+dxdz 9.37873e-05
+dydz 0.000192392
+BeamWidthX 0.000810077
+BeamWidthY 0.000914449
+Cov(0,j) 9.74717e-11 -8.60442e-13 0 0 0 0 0 
+Cov(1,j) -8.60442e-13 9.53406e-11 0 0 0 0 0 
+Cov(2,j) 0 0 0.00657313 0 0 0 0 
+Cov(3,j) 0 0 0 0.00328586 0 0 0 
+Cov(4,j) 0 0 0 0 8.79774e-12 -2.2537e-14 0 
+Cov(5,j) 0 0 0 0 -2.2537e-14 8.51416e-12 0 
+Cov(6,j) 0 0 0 0 0 0 6.04685e-10
+EmittanceX 0
+EmittanceY 0
+BetaStar 0
+Runnumber 357271
+BeginTimeOfFit 2022.08.10 20:13:19 GMT 1660162399
+EndTimeOfFit 2022.08.10 20:13:38 GMT 1660162418
+LumiRange 7 - 7
+Type 2
+X0 0.172993
+Y0 -0.181939
+Z0 0.0340912
+sigmaZ0 3.25481
+dxdz 0.000106045
+dydz 0.000198904
+BeamWidthX 0.000789634
+BeamWidthY 0.000862148
+Cov(0,j) 9.55741e-11 -1.31434e-13 0 0 0 0 0 
+Cov(1,j) -1.31434e-13 9.19701e-11 0 0 0 0 0 
+Cov(2,j) 0 0 0.00641275 0 0 0 0 
+Cov(3,j) 0 0 0 0.00320815 0 0 0 
+Cov(4,j) 0 0 0 0 8.5758e-12 -8.30732e-14 0 
+Cov(5,j) 0 0 0 0 -8.30732e-14 8.36861e-12 0 
+Cov(6,j) 0 0 0 0 0 0 5.69853e-10
+EmittanceX 0
+EmittanceY 0
+BetaStar 0
+Runnumber 357271
+BeginTimeOfFit 2022.08.10 20:13:51 GMT 1660162431
+EndTimeOfFit 2022.08.10 20:14:02 GMT 1660162442
+LumiRange 8 - 8
+Type 2
+X0 0.172989
+Y0 -0.181974
+Z0 -0.04307
+sigmaZ0 3.35362
+dxdz 9.96145e-05
+dydz 0.000202819
+BeamWidthX 0.000758917
+BeamWidthY 0.000943995
+Cov(0,j) 1.16505e-10 -1.15886e-12 0 0 0 0 0 
+Cov(1,j) -1.15886e-12 1.13688e-10 0 0 0 0 0 
+Cov(2,j) 0 0 0.00830024 0 0 0 0 
+Cov(3,j) 0 0 0 0.00415108 0 0 0 
+Cov(4,j) 0 0 0 0 1.03288e-11 -2.61589e-13 0 
+Cov(5,j) 0 0 0 0 -2.61589e-13 1.02722e-11 0 
+Cov(6,j) 0 0 0 0 0 0 6.90053e-10
+EmittanceX 0
+EmittanceY 0
+BetaStar 0
+Runnumber 357271
+BeginTimeOfFit 2022.08.10 20:14:17 GMT 1660162457
+EndTimeOfFit 2022.08.10 20:14:25 GMT 1660162465
+LumiRange 9 - 9
+Type 2
+X0 0.172996
+Y0 -0.181976
+Z0 0.0335977
+sigmaZ0 3.22915
+dxdz 9.98696e-05
+dydz 0.000189393
+BeamWidthX 0.000757641
+BeamWidthY 0.000873539
+Cov(0,j) 9.55328e-11 -1.15912e-12 0 0 0 0 0 
+Cov(1,j) -1.15912e-12 9.24166e-11 0 0 0 0 0 
+Cov(2,j) 0 0 0.00627405 0 0 0 0 
+Cov(3,j) 0 0 0 0.00313602 0 0 0 
+Cov(4,j) 0 0 0 0 8.89762e-12 -1.39136e-13 0 
+Cov(5,j) 0 0 0 0 -1.39136e-13 8.5089e-12 0 
+Cov(6,j) 0 0 0 0 0 0 5.58093e-10
+EmittanceX 0
+EmittanceY 0
+BetaStar 0
+Runnumber 357271
+BeginTimeOfFit 2022.08.10 20:14:39 GMT 1660162479
+EndTimeOfFit 2022.08.10 20:14:48 GMT 1660162488
+LumiRange 10 - 10
+Type 2
+X0 0.172974
+Y0 -0.181985
+Z0 -0.168852
+sigmaZ0 3.22425
+dxdz 9.77186e-05
+dydz 0.000191379
+BeamWidthX 0.0007572
+BeamWidthY 0.00093776
+Cov(0,j) 9.31157e-11 -3.34517e-13 0 0 0 0 0 
+Cov(1,j) -3.34517e-13 9.07207e-11 0 0 0 0 0 
+Cov(2,j) 0 0 0.00612601 0 0 0 0 
+Cov(3,j) 0 0 0 0.00306203 0 0 0 
+Cov(4,j) 0 0 0 0 8.61648e-12 -6.60469e-14 0 
+Cov(5,j) 0 0 0 0 -6.60469e-14 8.48716e-12 0 
+Cov(6,j) 0 0 0 0 0 0 5.48281e-10
+EmittanceX 0
+EmittanceY 0
+BetaStar 0

@@ -1,0 +1,23 @@
+Runnumber 360295
+BeginTimeOfFit 2022.10.13 04:39:32 GMT 1665635972
+EndTimeOfFit 2022.10.13 04:39:38 GMT 1665635978
+LumiRange 329 - 329
+Type 2
+X0 0.174141
+Y0 -0.183173
+Z0 0.017238
+sigmaZ0 3.4951
+dxdz 9.94511e-05
+dydz 0.000169834
+BeamWidthX 0.000819102
+BeamWidthY 0.000980516
+Cov(0,j) 1.39057e-10 2.74895e-13 0 0 0 0 0 
+Cov(1,j) 2.74895e-13 1.33133e-10 0 0 0 0 0 
+Cov(2,j) 0 0 0.0108009 0 0 0 0 
+Cov(3,j) 0 0 0 0.00540177 0 0 0 
+Cov(4,j) 0 0 0 0 1.09521e-11 -7.78001e-14 0 
+Cov(5,j) 0 0 0 0 -7.78001e-14 1.04234e-11 0 
+Cov(6,j) 0 0 0 0 0 0 8.32531e-10
+EmittanceX 0
+EmittanceY 0
+BetaStar 0
